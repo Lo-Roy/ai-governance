@@ -14,9 +14,9 @@ The frameworks are written for executives, technology leaders, enterprise archit
 
 This repository is built on three core principles:
 
-- **AI is a tool. Responsibility remains with the people who use it.**
-- **Agentic AI creates a digital workforce that should be managed, not merely deployed.**
-- **Effective AI governance combines sound management principles with appropriate technology governance.**
+- **Artificial intelligence augments the way people and organizations work.**
+- **People remain accountable for decisions, actions, and outcomes, regardless of how AI is used.**
+- **Responsible AI adoption requires practical governance, sound management, and continuous organizational adaptation.**
 
 These principles form the foundation of every publication in the AI Governance Resource Series.
 
