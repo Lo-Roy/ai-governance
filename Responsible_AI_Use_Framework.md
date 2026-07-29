@@ -211,6 +211,8 @@ AI can assist, accelerate, and augment professional work, but it does not replac
 
 ---
 
+© 2026 Roy Lo
+
 Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 https://creativecommons.org/licenses/by/4.0/
