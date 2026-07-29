@@ -1,7 +1,5 @@
 # Governing the Digital Workforce
 
-### A Management Framework for Agentic AI
-
 AI Governance Resource Series: Volume 2  
 
 **Version:** 1.0  
