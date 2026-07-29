@@ -55,7 +55,7 @@ Accordingly, this framework organizes responsible AI use into five practical pri
 
 ---
 
-# Principle 1 – Accountability and Explainability
+# Principle 1: Accountability and Explainability
 
 People remain accountable for work assisted by AI.
 
@@ -74,7 +74,7 @@ Good practice includes:
 
 ---
 
-# Principle 2 – Human Judgment and Control
+# Principle 2: Human Judgment and Control
 
 AI should support professional judgment, not replace it.
 
@@ -93,7 +93,7 @@ Good practice includes:
 
 ---
 
-# Principle 3 – Legitimate and Beneficial Use
+# Principle 3: Legitimate and Beneficial Use
 
 AI should be used for legitimate purposes that improve the quality, effectiveness, and integrity of work.
 
@@ -112,7 +112,7 @@ Good practice includes:
 
 ---
 
-# Principle 4 – Fairness and Respect for People
+# Principle 4: Fairness and Respect for People
 
 AI should not create or reinforce unfair outcomes.
 
@@ -126,7 +126,7 @@ Organizations should pay particular attention when AI influences decisions invol
 
 ---
 
-# Principle 5 – Do No Harm
+# Principle 5: Do No Harm
 
 AI should be used in ways that minimize foreseeable harm.
 
@@ -208,6 +208,8 @@ AI can assist, accelerate, and augment professional work, but it does not replac
 | Version | Date | Description |
 |----------|------|-------------|
 | 1.0 | July 2026 | Initial public release |
+
+---
 
 Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
 
