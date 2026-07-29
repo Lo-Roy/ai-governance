@@ -1,6 +1,7 @@
-#Responsible AI Use Framework
+# Responsible AI Use Framework
 
 AI Governance Resource Series
+
 Volume 1
 
 **Version:** 1.0  
