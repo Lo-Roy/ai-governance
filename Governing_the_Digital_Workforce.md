@@ -2,9 +2,8 @@
 
 ### A Management Framework for Agentic AI
 
-AI Governance Resource Series
+AI Governance Resource Series, Volume: 2  
 
-**Volume:** 2  
 **Version:** 1.0  
 **Author:** Roy Lo  
 **Published:** July 2026  
