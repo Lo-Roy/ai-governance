@@ -1,8 +1,7 @@
+#Responsible AI Use Framework
+
 AI Governance Resource Series
-
 Volume 1
-
-Responsible AI Use Framework
 
 **Version:** 1.0  
 **Author:** Roy Lo  
