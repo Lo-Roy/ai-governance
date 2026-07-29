@@ -16,7 +16,7 @@ This repository is built on three core principles:
 
 - **Artificial intelligence augments the way people and organizations work.**
 - **People remain accountable for decisions, actions, and outcomes, regardless of how AI is used.**
-- **Responsible AI adoption requires practical governance, sound management, and continuous organizational adaptation.**
+- **Responsible AI adaptation requires practical governance, sound management, and continuous organizational adaptation.**
 
 These principles form the foundation of every publication in the AI Governance Resource Series.
 
